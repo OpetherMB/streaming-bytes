@@ -2,7 +2,7 @@
 
 ## Context
 
-In Alice & Bob's physics laboratory, instruments output data as streams. These
+instruments output data as streams. These
 streams must then be read and processed to obtain meaningful results.
 
 This exercise aims at implementing such a data processing: given a certain
